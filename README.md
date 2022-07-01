@@ -21,7 +21,7 @@ npm install
 👤 **Arun Kumar**
 
 * Twitter: [@Arun\_eth](https://twitter.com/Arun\_eth)
-* Github: [@Arun](https://github.com/Arun)
+* Github: [@Arun9650](https://github.com/Arun9650)
 * LinkedIn: [@arun-kumar-cs](https://linkedin.com/in/arun-kumar-cs)
 
 ## Show your support
